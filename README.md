@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Tentang Saya
 - 🎓 Saya adalah mahasiswa S1 **Teknik Telekomunikasi** di **Institut Teknologi Sepuluh Nopember**.
-- 🌟 Memiliki kemampuan berpikir kritis, terorganisir, dan dapat bekerja dalam tim.
+- 🌟 Memiliki kemampuan Analisis, Terorganisir, dan Inovatif.
 - 💡 Selalu bersemangat untuk belajar dan berkembang di bidang **teknologi** dan **telekomunikasi**.
 - 🚀 Saat ini tertarik untuk mempelajari **MTCNA/CCNA** untuk mendalami jaringan komputer.
 
@@ -24,9 +24,9 @@
 ## 🛠️ Keterampilan
 | **Kategori**       | **Keterampilan**              |
 |---------------------|-------------------------------|
-| **Pemrograman**     | C, HTML, CSS, Javascript     |
+| **Pemrograman**     | C, HTML, CSS, Javascript (with the help of AI) |
 | **Tools**           | Everyting AI, XAMPP, Git, VSCode|
-| **Lainnya**         | Analisis data, Problem solving, Kerja tim |
+| **Lainnya**         | Analisis data, Problem solving, Inovatif |
 
 ---
 
